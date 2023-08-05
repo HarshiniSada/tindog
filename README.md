@@ -15,7 +15,8 @@ Tindog is the premier dating website for dogs! It's a place where your furry fri
 - *Fetching UI*: Our user-friendly interface ensures an enjoyable experience for both dogs and their human companions.
 
 ## Screenshots
-![Screenshot (882)](https://github.com/HarshiniSada/tindog/assets/94860835/8b16209a-0b1a-4853-b360-86b31d9c4e5b)
+![image](https://github.com/HarshiniSada/tindog/assets/94860835/37f544d6-71de-4e1f-8673-070d219efeee)
+
 
 ## Installation
 
